@@ -1,16 +1,13 @@
-# bookia
+# Simple Taskati application
+It's asimple flutter reserve abook to download or read it in your mobile
 
-A new Flutter project.
+## Get started
+This project is a starting point for a Flutter application. 
+# download full code from here 
+[https://github.com/elhamdullah/bookia.git] 
+Your computer must be running Windows 11, or newer. you must install visual studio code install SDK for dart and flutter
 
-## Getting Started
+### samples
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/79d65df5-4006-4368-a755-436015929223
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

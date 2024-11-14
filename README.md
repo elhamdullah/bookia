@@ -1,4 +1,4 @@
-# Simple Taskati application
+# Simple Bookia application
 It's asimple flutter reserve abook to download or read it in your mobile
 
 ## Get started
